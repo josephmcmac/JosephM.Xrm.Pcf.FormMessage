@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="JosephM.Xrm.Pcf" constructor="FormMessage" version="1.0.0" display-name-key="Joseph McGregor Form Message" description-key="Displays the field value as a read only HTML message" control-type="standard">
+    <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
+    <property name="controlValue" display-name-key="Bound Field" description-key="Field to source HTML content of the message" of-type="Multiple" usage="bound" required="true" />
+	<property name="backgroundColourValue" display-name-key="Background Colour" description-key="Specify a background colour for the message" of-type="SingleLine.Text" usage="input" required="false" />
+	<property name="fontColourValue" display-name-key="Font Colour" description-key="Specify a font colour for the message" of-type="SingleLine.Text" usage="input" required="false" />
+	<resources>
+      <code path="index.ts" order="1"/>
+    </resources>
+  </control>
+</manifest>

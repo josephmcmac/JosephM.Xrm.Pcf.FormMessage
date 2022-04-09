@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JosephM.Xrm.Pcf.FormMessage", "JosephM.Xrm.Pcf.FormMessage", "{AA83D16F-7549-4D8D-A99F-39AE5294A5DA}"
+	ProjectSection(SolutionItems) = preProject
+		JosephM.Xrm.Pcf.FormMessage\.gitignore = JosephM.Xrm.Pcf.FormMessage\.gitignore
+		JosephM.Xrm.Pcf.FormMessage\buildsolution.bat = JosephM.Xrm.Pcf.FormMessage\buildsolution.bat
+		JosephM.Xrm.Pcf.FormMessage\JosephM.Xrm.Pcf.FormMessage.pcfproj = JosephM.Xrm.Pcf.FormMessage\JosephM.Xrm.Pcf.FormMessage.pcfproj
+		JosephM.Xrm.Pcf.FormMessage\package-lock.json = JosephM.Xrm.Pcf.FormMessage\package-lock.json
+		JosephM.Xrm.Pcf.FormMessage\package.json = JosephM.Xrm.Pcf.FormMessage\package.json
+		JosephM.Xrm.Pcf.FormMessage\pcfconfig.json = JosephM.Xrm.Pcf.FormMessage\pcfconfig.json
+		JosephM.Xrm.Pcf.FormMessage\tsconfig.json = JosephM.Xrm.Pcf.FormMessage\tsconfig.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{12BEF583-5ED6-4E6F-B5D6-9FC9B0008F37}"
+	ProjectSection(SolutionItems) = preProject
+		JosephM.Xrm.Pcf.FormMessage\Solution\.gitignore = JosephM.Xrm.Pcf.FormMessage\Solution\.gitignore
+		JosephM.Xrm.Pcf.FormMessage\Solution\JosephMcGregorPcfFormMessage.cdsproj = JosephM.Xrm.Pcf.FormMessage\Solution\JosephMcGregorPcfFormMessage.cdsproj
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{88D76609-84C8-484C-8799-976104AF4FB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{A3BFF6E5-B00F-45D4-9298-D873586DA690}"
+	ProjectSection(SolutionItems) = preProject
+		JosephM.Xrm.Pcf.FormMessage\Solution\src\Other\Customizations.xml = JosephM.Xrm.Pcf.FormMessage\Solution\src\Other\Customizations.xml
+		JosephM.Xrm.Pcf.FormMessage\Solution\src\Other\Relationships.xml = JosephM.Xrm.Pcf.FormMessage\Solution\src\Other\Relationships.xml
+		JosephM.Xrm.Pcf.FormMessage\Solution\src\Other\Solution.xml = JosephM.Xrm.Pcf.FormMessage\Solution\src\Other\Solution.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JosephM.Xrm.Pcf.FormMessage", "JosephM.Xrm.Pcf.FormMessage", "{CA32F470-65F0-4301-9345-51006595ACE3}"
+	ProjectSection(SolutionItems) = preProject
+		JosephM.Xrm.Pcf.FormMessage\JosephM.Xrm.Pcf.FormMessage\ControlManifest.Input.xml = JosephM.Xrm.Pcf.FormMessage\JosephM.Xrm.Pcf.FormMessage\ControlManifest.Input.xml
+		JosephM.Xrm.Pcf.FormMessage\JosephM.Xrm.Pcf.FormMessage\index.ts = JosephM.Xrm.Pcf.FormMessage\JosephM.Xrm.Pcf.FormMessage\index.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "generated", "generated", "{C394BD59-1C07-4658-87EC-EEE09CC0B037}"
+	ProjectSection(SolutionItems) = preProject
+		JosephM.Xrm.Pcf.FormMessage\JosephM.Xrm.Pcf.FormMessage\generated\ManifestTypes.d.ts = JosephM.Xrm.Pcf.FormMessage\JosephM.Xrm.Pcf.FormMessage\generated\ManifestTypes.d.ts
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Xrm.Vsix", "Xrm.Vsix", "{86D51117-3E14-4D0F-AC86-3539CE5FCE5B}"
+	ProjectSection(SolutionItems) = preProject
+		Xrm.Vsix\josep.solution.xrmconnection = Xrm.Vsix\josep.solution.xrmconnection
+		Xrm.Vsix\josep.xrmpackage.xrmsettings = Xrm.Vsix\josep.xrmpackage.xrmsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Releases", "Releases", "{D1B2ECDA-E647-4D97-B858-319F80E7BAA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0.0.0", "1.0.0.0", "{8C951D5C-D5B0-4458-933C-3C5E460F19C0}"
+	ProjectSection(SolutionItems) = preProject
+		Releases\1.0.0.0\JosephMcGregorPcfFormMessage_1_0_0_0.zip = Releases\1.0.0.0\JosephMcGregorPcfFormMessage_1_0_0_0.zip
+		Releases\1.0.0.0\JosephMcGregorPcfFormMessage_1_0_0_0_managed.zip = Releases\1.0.0.0\JosephMcGregorPcfFormMessage_1_0_0_0_managed.zip
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{12BEF583-5ED6-4E6F-B5D6-9FC9B0008F37} = {AA83D16F-7549-4D8D-A99F-39AE5294A5DA}
+		{88D76609-84C8-484C-8799-976104AF4FB3} = {12BEF583-5ED6-4E6F-B5D6-9FC9B0008F37}
+		{A3BFF6E5-B00F-45D4-9298-D873586DA690} = {88D76609-84C8-484C-8799-976104AF4FB3}
+		{CA32F470-65F0-4301-9345-51006595ACE3} = {AA83D16F-7549-4D8D-A99F-39AE5294A5DA}
+		{C394BD59-1C07-4658-87EC-EEE09CC0B037} = {CA32F470-65F0-4301-9345-51006595ACE3}
+		{8C951D5C-D5B0-4458-933C-3C5E460F19C0} = {D1B2ECDA-E647-4D97-B858-319F80E7BAA4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FF2FA99-0D2A-4EC0-849E-CE7EFF6DA31B}
+	EndGlobalSection
+EndGlobal

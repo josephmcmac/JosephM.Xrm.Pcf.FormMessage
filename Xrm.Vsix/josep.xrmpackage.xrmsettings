@@ -1,0 +1,44 @@
+{
+  "AddToSolution": true,
+  "Connections": [
+    {
+      "AuthenticationProviderType": 3,
+      "DiscoveryServiceAddress": null,
+      "Domain": null,
+      "Name": "CDX",
+      "OrganizationUniqueName": "unq0557fe650dd940cdb0a195f25afde",
+      "Password": {
+        "_password": "AQAAANCMnd8BFdERjHoAwE\/Cl+sBAAAAkYPj2fGxwkii4KHRvod3QAAAAAACAAAAAAAQZgAAAAEAACAAAAD2S1rYN6jmskRoR\/a1e1OhRCZqcQQolymT8VVnKnlPOwAAAAAOgAAAAAIAACAAAABgdrCj74B6G7UbIDlXvbKsR1z6HDWiSMEtlc96bwdX4SAAAAAley7tiS1YkO1z+awLX3flY8r4d5aO7ePywes9mIXRfkAAAABvO6ucqLeNeMBmNvqyV0dbbuvQq1pQGxcmMgb6GtaQVhkDpfEqvy2VojyNKFWk8qiRBWmv0EDWYKMwjcGlKnrI",
+        "<EncryptPassword>k__BackingField": true
+      },
+      "ToolingConnectionId": null,
+      "UseXrmToolingConnector": false,
+      "Username": "admin@crm137858.onmicrosoft.com",
+      "Active": true,
+      "HideActive": false
+    }
+  ],
+  "DeployIntoFieldProjects": [
+    {
+      "ProjectName": "N\/A"
+    }
+  ],
+  "PluginProjects": [
+    {
+      "ProjectName": "N\/A",
+      "UsesILMergeMsBuildTask": false
+    }
+  ],
+  "Solution": {
+    "Id": "53379319-e4bc-4d3a-a404-bc4bcab00996",
+    "Name": "JosephMcGregorPcfFormMessage",
+    "RecordType": "solution"
+  },
+  "SolutionDynamicsCrmPrefix": "jmcg",
+  "SolutionObjectPrefix": "JosephM",
+  "WebResourceProjects": [
+    {
+      "ProjectName": "N\/A"
+    }
+  ]
+}

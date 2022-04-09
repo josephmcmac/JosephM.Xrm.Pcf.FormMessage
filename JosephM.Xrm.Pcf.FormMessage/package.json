@@ -1,0 +1,20 @@
+{
+  "name": "josephm-xrm-pcf-formmessage",
+  "version": "1.0.0",
+  "description": "Project for a pcf control to display an informational message in Model Driven App form",
+  "scripts": {
+    "build": "pcf-scripts build",
+    "clean": "pcf-scripts clean",
+    "rebuild": "pcf-scripts rebuild",
+    "start": "pcf-scripts start"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "@types/powerapps-component-framework": "^1.2.0",
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "pcf-scripts": "^1",
+    "pcf-start": "^1"
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "Key": "Active",
+    "Value": "True"
+  },
+  {
+    "Key": "HideActive",
+    "Value": "False"
+  },
+  {
+    "Key": "Name",
+    "Value": "CDX"
+  },
+  {
+    "Key": "UseXrmToolingConnector",
+    "Value": "False"
+  },
+  {
+    "Key": "ToolingConnectionId",
+    "Value": null
+  },
+  {
+    "Key": "AuthenticationProviderType",
+    "Value": "LiveId"
+  },
+  {
+    "Key": "DiscoveryServiceAddress",
+    "Value": null
+  },
+  {
+    "Key": "OrganizationUniqueName",
+    "Value": "unq0557fe650dd940cdb0a195f25afde"
+  },
+  {
+    "Key": "Domain",
+    "Value": null
+  },
+  {
+    "Key": "Username",
+    "Value": "admin@crm137858.onmicrosoft.com"
+  },
+  {
+    "Key": "Password",
+    "Value": "AQAAANCMnd8BFdERjHoAwE\/Cl+sBAAAAkYPj2fGxwkii4KHRvod3QAAAAAACAAAAAAAQZgAAAAEAACAAAAD2S1rYN6jmskRoR\/a1e1OhRCZqcQQolymT8VVnKnlPOwAAAAAOgAAAAAIAACAAAABgdrCj74B6G7UbIDlXvbKsR1z6HDWiSMEtlc96bwdX4SAAAAAley7tiS1YkO1z+awLX3flY8r4d5aO7ePywes9mIXRfkAAAABvO6ucqLeNeMBmNvqyV0dbbuvQq1pQGxcmMgb6GtaQVhkDpfEqvy2VojyNKFWk8qiRBWmv0EDWYKMwjcGlKnrI"
+  }
+]
